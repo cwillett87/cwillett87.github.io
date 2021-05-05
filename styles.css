@@ -1,0 +1,153 @@
+body{
+    background-image: url(../cwillett87.github.io/images/background\ code4.jpg);
+    margin: 0;
+}
+
+.nav-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   font-size: x-large;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+.nav-list__item{
+    float: left;
+}
+
+.a-class{
+    
+    display: block;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.home{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+   
+  
+}
+
+
+    
+.home-item{
+   padding: 30px;
+   margin: 0;
+   list-style-type: none;
+   color: white;
+   float: left;
+   background-color: black;
+}
+
+.home-item2{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+}
+
+.home-item2-h2{
+    margin-bottom: 0;
+    padding-top: 150px;
+    padding-left: 1100px;
+    padding-bottom: 50px;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+}
+.home-item2-p{
+    margin: 0;
+   padding-left: 750px;
+   padding-bottom: 265px;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    padding-right: 100px;
+}
+
+.about{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.about-item{
+    padding: 30px;
+   margin: 0;
+   list-style-type: none;
+   color: white;
+   float: left;
+   background-color: black;
+}
+.about-item2{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+.about-item-h3{
+    margin-bottom: 0;
+    padding-top: 150px;
+    padding-left: 1000px;
+    padding-bottom: 50px;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+.about-item-p{
+  margin: 0;
+  padding-left: 500px;
+  padding-bottom: 242px;
+  padding-right: 100px;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+.projects{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+   font-size: x-large;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+.project-items{
+    float: left;
+    font-size: xx-large;
+    padding: 75px;
+    padding-top: 50px;
+    margin: 0;
+}
+
+.projects-title{
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    margin-bottom: 0;
+    padding: 20px;
+    font-size: xx-large;
+}
+.footer{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   font-size: x-large;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
